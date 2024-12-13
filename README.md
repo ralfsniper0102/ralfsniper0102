@@ -16,9 +16,10 @@
 ## 📈 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfsniper0102&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfsniper0102&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=ralfsniper0102&theme=radical&hide_border=true)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ralfsniper0102&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ralfsniper0102&theme=dark&hide_border=true)
 
 
 ## 🌐 Vamos Conectar?
