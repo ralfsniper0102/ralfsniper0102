@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rafael!
 
-<!--
-**ralfsniper0102/ralfsniper0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor **Back-end** com experiência em **.NET** e outras tecnologias modernas.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Trabalho com desenvolvimento back-end, com foco em APIs RESTful, sistemas distribuídos e integração com bancos de dados relacionais e não-relacionais.
+- 🌱 Atualmente me dedicando ao aprimoramento de conhecimentos em **Clean Architecture**, **CQRS** e práticas avançadas de **DevOps**.
+- 🛠️ Experiência com:
+  - **Linguagens:** C#, SQL, JavaScript, Typescript e Python
+  - **Frameworks:** .NET 6/7/8, ASP.NET Core, Entity Framework Core
+  - **Bancos de Dados:** SQL Server, PostgreSQL
+  - **Outras Ferramentas:** Docker, Kubernetes, RabbitMQ, Swagger, Git
+- 📚 Gosto de compartilhar conhecimento através de posts no LinkedIn.
+
+## 📈 Estatísticas do GitHub
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?ralfsniper0102=SeuUsuario&show_icons=true&theme=dark)
+
+## 🌐 Vamos Conectar?
+
+- 💼 [LinkedIn](https://www.[linkedin.com/in/SeuPerfil](https://www.linkedin.com/in/rafael-araujo-silva-7773481b2)
