@@ -10,12 +10,15 @@
   - **Linguagens:** C#, SQL, JavaScript, Typescript e Python
   - **Frameworks:** .NET 6/7/8, ASP.NET Core, Entity Framework Core
   - **Bancos de Dados:** SQL Server, PostgreSQL
-  - **Outras Ferramentas:** Docker, Kubernetes, RabbitMQ, Swagger, Git
+  - **Outras Ferramentas:** Docker, RabbitMQ, Swagger, Git
 - 📚 Gosto de compartilhar conhecimento através de posts no LinkedIn.
 
 ## 📈 Estatísticas do GitHub
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfsniper0102&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfsniper0102&layout=compact&theme=dark)
+
 
 ## 🌐 Vamos Conectar?
 
