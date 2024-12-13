@@ -20,7 +20,7 @@
   <p style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="ASP.NET Core" alt="ASP.NET Core" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40" style="background-color: #fff; padding: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40" style="background-color: #FFFF00;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>  
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mediator-a-design-pattern-for-providing-a-unified-interface-to-a-set-of-interfaces-logo-shadow-tal-revivo.png" title="MediatR" alt="MediatR" width="40" height="40"/>
     <img src="https://img.icons8.com/external-tal-revivo-filled/external-serilog-logging-library-logo-filled-tal-revivo.png" title="Serilog" alt="Serilog" width="40" height="40"/>
