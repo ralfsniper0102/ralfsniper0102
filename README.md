@@ -19,7 +19,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfsniper0102&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ralfsniper0102&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.vercel.app/?user=ralfsniper0102&theme=dark&hide_border=true)
+
 
 
 ## 🌐 Vamos Conectar?
