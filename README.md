@@ -15,8 +15,8 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?ralfsniper0102=SeuUsuario&show_icons=true&theme=dark)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfsniper0102&show_icons=true&theme=dark)
 
 ## 🌐 Vamos Conectar?
 
-- 💼 [LinkedIn](https://www.[linkedin.com/in/SeuPerfil](https://www.linkedin.com/in/rafael-araujo-silva-7773481b2)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-araujo-silva-7773481b2)
