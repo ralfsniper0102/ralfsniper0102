@@ -29,10 +29,19 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
+      <img src="https://sequelize.org/img/logo.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>
+      <img src="https://leafletjs.com/docs/images/favicon.ico" title="Leafletjs" alt="Leafletjs" width="40" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/32372333?s=48&v=4" title="Axios" alt="Axios" width="40" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/97165289?s=48&v=4" title="Faker.js" alt="Faker.js" width="40" height="40"/>
     </p>
   - **Python**  
     <p style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>  
+      <img src="https://avatars.githubusercontent.com/u/1066203?s=48&v=4" title="Alembic" alt="Alembic" width="40" height="40"/>  
+      <img src="https://avatars.githubusercontent.com/u/6043126?s=200&v=4" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>  
+      <img src="https://avatars.githubusercontent.com/u/19159390?s=48&v=4" title="Uvicorn" alt="Uvicorn" width="40" height="40"/>  
+
     </p>
 
 - 🧪 Testes  
@@ -40,6 +49,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="PyTest" alt="PyTest" width="40" height="40"/>  
     <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/344/external-test-devices-flatart-icons-outline-flatarticons.png" title="Cypress" alt="Cypress" width="40" height="40"/>  
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-cucumber-logo.png" title="Cucumber" alt="Cucumber" width="40" height="40"/>  
+    <img src="https://avatars.githubusercontent.com/u/103283236?s=48&v=4" title="Jest" alt="Jest" width="40" height="40"/>
   </p>
 
 - 🗄️ Bancos de Dados  
