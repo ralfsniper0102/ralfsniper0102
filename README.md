@@ -17,15 +17,23 @@
   </p>
 
 - 📚 Frameworks e Bibliotecas  
-  <p style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="ASP.NET Core" alt="ASP.NET Core" width="40" height="40"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40" style="background-color: #FFFF00;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>  
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mediator-a-design-pattern-for-providing-a-unified-interface-to-a-set-of-interfaces-logo-shadow-tal-revivo.png" title="MediatR" alt="MediatR" width="40" height="40"/>
-    <img src="https://img.icons8.com/external-tal-revivo-filled/external-serilog-logging-library-logo-filled-tal-revivo.png" title="Serilog" alt="Serilog" width="40" height="40"/>
-    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/external-scheduler-time-management-flaticons-flat-flat-icons.png" title="Hangfire" alt="Hangfire" width="40" height="40"/>
-  </p>
+  - **C#**  
+    <p style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="ASP.NET Core" alt="ASP.NET Core" width="40" height="40"/>  
+      <img src="https://cloud.githubusercontent.com/assets/1237341/5810045/d6ee618e-a037-11e4-8544-3b612daeb777.png" title="MediatR" alt="MediatR" width="40" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/5691010?s=48&v=4" title="Serilog" alt="Serilog" width="40" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" title="Hangfire" alt="Hangfire" width="40" height="40"/>
+    </p>
+  - **JavaScript/TypeScript**  
+    <p style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
+    </p>
+  - **Python**  
+    <p style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>  
+    </p>
 
 - 🧪 Testes  
   <p style="display: flex; flex-wrap: wrap; gap: 10px;">
