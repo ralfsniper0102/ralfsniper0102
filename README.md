@@ -46,9 +46,9 @@
 
 - 🧪 Testes  
   <p style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="PyTest" alt="PyTest" width="40" height="40"/>  
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/344/external-test-devices-flatart-icons-outline-flatarticons.png" title="Cypress" alt="Cypress" width="40" height="40"/>  
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-cucumber-logo.png" title="Cucumber" alt="Cucumber" width="40" height="40"/>  
+    <img src="https://docs.pytest.org/en/stable/_static/pytest1.png" title="PyTest" alt="PyTest" width="40" height="40"/>  
+    <img src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4" title="Cypress" alt="Cypress" width="40" height="40"/>  
+    <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" title="Cucumber" alt="Cucumber" width="40" height="40"/>  
     <img src="https://avatars.githubusercontent.com/u/103283236?s=48&v=4" title="Jest" alt="Jest" width="40" height="40"/>
   </p>
 
@@ -93,22 +93,11 @@
 
 
 ## 📈 Estatísticas do GitHub
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfsniper0102&layout=compact&theme=radical&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfsniper0102&show_icons=true&theme=radical&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ralfsniper0102&theme=dark&hide_border=true&count_private=true&token=GH_TOKEN)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfsniper0102&layout=compact&theme=radical&count_private=true)
 
-
-
-
-
-
-
-
-
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfsniper0102&show_icons=true&theme=radical&count_private=true)
 
 ## 🌐 Vamos Conectar?
 
