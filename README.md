@@ -93,12 +93,12 @@
 
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfsniper0102&show_icons=true&theme=radical&count_private=true&token=GH_TOKEN)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ralfsniper0102&theme=react-dark&area=true&hide_border=true&token=GH_TOKEN)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfsniper0102&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfsniper0102&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_icons=true&)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ralfsniper0102&theme=github)
+![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ralfsniper0102&theme=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfsniper0102&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.vercel.app/?user=ralfsniper0102&theme=dark&hide_border=true)
 
 
