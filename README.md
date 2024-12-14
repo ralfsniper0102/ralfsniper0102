@@ -46,6 +46,7 @@
 
 - 🧪 Testes  
   <p style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://avatars.githubusercontent.com/u/2092016?s=200&v=4" title="xUnit" alt="xUnit" width="40" height="40"/>  
     <img src="https://docs.pytest.org/en/stable/_static/pytest1.png" title="PyTest" alt="PyTest" width="40" height="40"/>  
     <img src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4" title="Cypress" alt="Cypress" width="40" height="40"/>  
     <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" title="Cucumber" alt="Cucumber" width="40" height="40"/>  
@@ -69,27 +70,41 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="pip" alt="pip" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>  
-    <img src="https://img.icons8.com/material-outlined/344/internet-information-services.png" title="IIS" alt="IIS" width="40" height="40"/>
   </p>
 
 - ☁️ AWS  
   <p style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>  
+    <img src="https://imgs.search.brave.com/Re-caQloDzUzu0GINYHoY-Hc1YH-i2iF0DqVz919IeI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9jb21wdXRl/LWF3c2xhbWJkYS1s/YW1iZGFmdW5jdGlv/bi1pY29uLTk4NXgx/MDI0LW93Y2ltN251/LnBuZw" title="Lambda" alt="Lambda" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/hRMDfIyHHWZcTAdHyUVUltw-QBEo20yfXW6y9n5lLAE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hd3MtZHlu/YW1vZGItaWNvbi05/MDl4MTAyNC11Y3Vz/aDV2Ny5wbmc" title="DynamoDB" alt="DynamoDB" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/MciO7T0hfuBEDxMdHuaikT7kt_P4qqZUveX8JvVFnCc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hd3MtczMt/c2ltcGxlLXN0b3Jh/Z2Utc2VydmljZS1p/Y29uLTIxMngyNTYt/MXVkNWY3bmIucG5n" title="S3" alt="S3" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/54yr63rnUkMyrKWUyFaWGDySGWCPVMUicJ-CwLyUUbs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L0FXUy9zdmcvQXBw/LUludGVncmF0aW9u/L0V2ZW50QnJpZGdl/LnN2Zw" title="EventBridge" alt="EventBridge" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/8ErgF1moyxVKq290M9xxLAeH2l86KUj1N6NzcwCsxMk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hd3MtY2xv/dWRmcm9udC1pY29u/LTQyNng1MTItcTBh/eDdlNWUucG5n" title="CloudFront" alt="CloudFront" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/BW6MGdcda_WheR06Z2bSOQ_iZC76fXv2g3Rgidqz2gg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L0FXUy9zdmcvQXBw/LUludGVncmF0aW9u/L1N0ZXAtRnVuY3Rp/b25zLnN2Zw" title="Step Functions" alt="Step Functions" width="40" height="40"/>
+    <img src="https://freesvg.org/img/1552081289.png" title="API Gateway" alt="API Gateway" width="40" height="40"/>
   </p>
 
 - 🛠️ Arquitetura e Boas Práticas  
-  <p style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="Clean Architecture" alt="Clean Architecture" width="40" height="40"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="DDD" alt="DDD" width="40" height="40"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="Design Patterns" alt="Design Patterns" width="40" height="40"/>  
-  </p>
-
-- 🚀 Metodologias e CI/CD  
-  <p style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="CI/CD" alt="CI/CD" width="40" height="40"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>  
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/344/external-scrum-agile-methodology-flatart-icons-outline-flatarticons.png" title="Scrum" alt="Scrum" width="40" height="40"/>
-  </p>
+  - 🏗️ **Clean Architecture**  
+  - 🎯 **Domain-Driven Design (DDD)**  
+  - 🧩 **Design Patterns**:  
+    - 🏭 Factory  
+    - 🔄 Strategy  
+    - 📚 Repository  
+    - ⚡ Observer  
+  - 📜 **Princípios de Design**:  
+    - 🏗️ SOLID  
+    - ♻️ DRY  
+    - 🎯 KISS  
+    - ⚠️ YAGNI  
+- 🌐 **Arquiteturas de Software**:  
+  - 🧱 Monolítica  
+  - ⚙️ Microsserviços  
+  - ☁️ Serverless  
+  - 📡 Event-Driven  
+- 🛠️ **Ferramentas e Frameworks**:  
+  - 📜 Swagger  
+  - ⚙️ MediatR  
+  - 🔄 AutoMapper  
 
 
 ## 📈 Estatísticas do GitHub
