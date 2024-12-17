@@ -23,6 +23,7 @@
       <img src="https://cloud.githubusercontent.com/assets/1237341/5810045/d6ee618e-a037-11e4-8544-3b612daeb777.png" title="MediatR" alt="MediatR" width="40" height="40"/>
       <img src="https://avatars.githubusercontent.com/u/5691010?s=48&v=4" title="Serilog" alt="Serilog" width="40" height="40"/>
       <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" title="Hangfire" alt="Hangfire" width="40" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/890883?s=48&v=4" title="Automapper" alt="Automapper" width="40" height="40"/>
     </p>
   - **JavaScript/TypeScript**  
     <p style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -103,11 +104,10 @@
   - 📡 Event-Driven  
 - 🛠️ **Ferramentas e Frameworks**:  
   - 📜 Swagger  
-  - ⚙️ MediatR  
-  - 🔄 AutoMapper  
 
 
 ## 📈 Estatísticas do GitHub
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ralfsniper0102&theme=dark&hide_border=true&count_private=true&token=GH_TOKEN)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfsniper0102&layout=compact&theme=radical&count_private=true)
