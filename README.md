@@ -82,6 +82,7 @@
     <img src="https://imgs.search.brave.com/8ErgF1moyxVKq290M9xxLAeH2l86KUj1N6NzcwCsxMk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hd3MtY2xv/dWRmcm9udC1pY29u/LTQyNng1MTItcTBh/eDdlNWUucG5n" title="CloudFront" alt="CloudFront" width="40" height="40"/>
     <img src="https://imgs.search.brave.com/BW6MGdcda_WheR06Z2bSOQ_iZC76fXv2g3Rgidqz2gg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L0FXUy9zdmcvQXBw/LUludGVncmF0aW9u/L1N0ZXAtRnVuY3Rp/b25zLnN2Zw" title="Step Functions" alt="Step Functions" width="40" height="40"/>
     <img src="https://freesvg.org/img/1552081289.png" title="API Gateway" alt="API Gateway" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/A/aws-sqs-simple-queue-service-logo-8884A71ECB-seeklogo.com.png" title="SQS" alt="SQS" width="40" height="40"/>
   </p>
 
 - 🛠️ Arquitetura e Boas Práticas  
