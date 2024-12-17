@@ -24,7 +24,7 @@
       <img src="https://avatars.githubusercontent.com/u/5691010?s=48&v=4" title="Serilog" alt="Serilog" width="40" height="40"/>
       <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" title="Hangfire" alt="Hangfire" width="40" height="40"/>
       <img src="https://avatars.githubusercontent.com/u/890883?s=48&v=4" title="Automapper" alt="Automapper" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/b02ee1ac30c7ff4757278337c95588b01ed0954b/svg/r/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
+      <img src="https://imgs.search.brave.com/pQAW-3Q8VREpZNtjKlzCFsd_w8qEq-8eeGIIB-gnZqQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTU4YTdiOWFk/NTc5MDVhOGEyZGZh/ODM3NzZhNWUyNTdl/ODk5NDM1M2Y3ZDM1/NDZhZGQ0MTVkNGYw/NzBiMzI2My9mbHVl/bnR2YWxpZGF0aW9u/Lm5ldC8" title="FluentValidation" alt="FluentValidation" width="40" height="40"/>
     </p>
   - **JavaScript/TypeScript**  
     <p style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -72,6 +72,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="pip" alt="pip" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>  
+    <img src="https://imgs.search.brave.com/5flR_L3uXxWeubPEgO1uxqMlvzIgvraxITaEeLAmxdc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zd2FnZ2Vy/LWljb24tMjU2eDI1/Ni1qODBudXZlNy5w/bmc" title="Swagger" alt="Swagger" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/b02ee1ac30c7ff4757278337c95588b01ed0954b/svg/r/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
   </p>
 
 - ☁️ AWS  
@@ -103,14 +105,9 @@
   - 🧱 Monolítica  
   - ⚙️ Microsserviços  
   - ☁️ Serverless  
-  - 📡 Event-Driven  
-- 🛠️ **Ferramentas e Frameworks**:  
-  - 📜 Swagger  
-
+  - 📡 Event-Driven   
 
 ## 📈 Estatísticas do GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ralfsniper0102&theme=dark&hide_border=true&count_private=true&token=GH_TOKEN)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfsniper0102&layout=compact&theme=radical&count_private=true)
 
