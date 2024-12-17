@@ -24,6 +24,7 @@
       <img src="https://avatars.githubusercontent.com/u/5691010?s=48&v=4" title="Serilog" alt="Serilog" width="40" height="40"/>
       <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" title="Hangfire" alt="Hangfire" width="40" height="40"/>
       <img src="https://avatars.githubusercontent.com/u/890883?s=48&v=4" title="Automapper" alt="Automapper" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/b02ee1ac30c7ff4757278337c95588b01ed0954b/svg/r/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
     </p>
   - **JavaScript/TypeScript**  
     <p style="display: flex; flex-wrap: wrap; gap: 10px;">
