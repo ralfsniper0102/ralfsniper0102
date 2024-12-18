@@ -108,6 +108,7 @@
   - 📡 Event-Driven   
 
 ## 📈 Estatísticas do GitHub
+![GitHub Streak](https://streak-stats.demolab.com/?user=ralfsniper0102&theme=dark&hide_border=true&count_private=true&token=GH_TOKEN)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfsniper0102&layout=compact&theme=radical&count_private=true)
 
